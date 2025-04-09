@@ -12,7 +12,7 @@
   "keywords": [
     "whatsapp-bot"
   ],
-  "author": "",
+  "author": Praize "",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/keyed-db": "^0.2.4",
@@ -21,7 +21,7 @@
     "@hapi/boom": "^10.0.1",
     "@types/node": "^18.0.6",
     "@whiskeysockets/baileys": "^6.7.9",
-    "awesome-phonenumber": "^5.9.0",
+    "awesome-phonenumber":2349076941294 "^5.9.0",
     "axios": "^1.6.7",
     "chalk": "^4.1.2",
     "cheerio": "^1.0.0-rc.12",
